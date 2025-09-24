@@ -17,7 +17,7 @@ Python 🐍, SQL 🛢️, DAX 📐, VBA ⚡, SAS 🔬
 ---
 
 ## 💡 What I Do:
-- **Data Analysis & Transformation**: Maintaining databases in Azure SQL 🔷, retrieving data with SQL 🛢️, and transforming it using Python 🐍 for analysis.
+- **Data Analysis & Transformation**: Maintaining databases in Azure 🔷, retrieving data with SQL 🛢️, and transforming it using Python 🐍 for analysis.
 - **Business Analysis & Strategy**: TGathering requirements, writing user stories, and supporting UAT within Agile frameworks to ensure solutions meet business needs.
 - **Dashboards & Reporting**: Building interactive Tableau 🎨 and Power BI 📊 dashboards, and automating recurring reports with Logic Apps ⚡ and Power Automate 🔄.
 - **Advanced Analytics**: Developing predictive models (Scikit-learn 🤖, TensorFlow 🔥) and applying NLP (BERT, RoBERTa) to uncover trends and insights.
