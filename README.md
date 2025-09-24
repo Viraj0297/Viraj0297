@@ -8,17 +8,19 @@
 Python 🐍, SQL 🛢️, DAX 📐, VBA ⚡, SAS 🔬
 
 ## 🛠️ Tools of My Trade:
-- **Data Wrangling**: Pandas 🐼, NumPy 🔢, SciPy 📐
-- **Visualization & Reporting**: Power BI 📊, Tableau 🎨, MS Excel (Power Query, Pivot Tables) 🔄
+- **Data Analysis**: Jupyter Notebook 📓, Alteryx 🔄, KNIME 🧩
+- **Visualization & Reporting**: Power BI 📊, Tableau 🎨, MS Excel (Power Query, Pivot Tables) 📈, Qlik Sense 📊
 - **Machine Learning & NLP**: Scikit-learn 🤖, TensorFlow 🔥, Keras 🚀, and NLP techniques (BERT, RoBERTa)
+- **Cloud & Big Data**: AWS ☁️, Azure 🔷
+- **Collaboration & Productivity**: JIRA 📌, Confluence 📒, MS Visio 🗂️
 
 ---
 
 ## 💡 What I Do:
-- **Data Analysis & Transformation**: Wrangling, cleaning, and transforming datasets using Python and SQL to generate actionable insights.
-- **Dashboards & Visualizations**: Crafting interactive dashboards in Power BI and Tableau, helping stakeholders make data-driven decisions 🎯.
-- **Machine Learning & Predictive Analytics**: Building predictive models using Python (Scikit-learn, TensorFlow) to forecast trends and automate decision-making processes.
-- **NLP Applications**: Leveraging NLP techniques to analyze text data and extract valuable insights for improving decision-making.
+- **Data Analysis & Transformation**: Maintaining databases in Azure SQL 🔷, retrieving data with SQL 🛢️, and transforming it using Python 🐍 for analysis.
+- **Business Analysis & Strategy**: TGathering requirements, writing user stories, and supporting UAT within Agile frameworks to ensure solutions meet business needs.
+- **Dashboards & Reporting**: Building interactive Tableau 🎨 and Power BI 📊 dashboards, and automating recurring reports with Logic Apps ⚡ and Power Automate 🔄.
+- **Advanced Analytics**: Developing predictive models (Scikit-learn 🤖, TensorFlow 🔥) and applying NLP (BERT, RoBERTa) to uncover trends and insights.
 
 ---
 
