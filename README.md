@@ -33,14 +33,16 @@ Python 🐍, SQL 🛢️, DAX 📐, VBA ⚡, SAS 🔬
 ---
 
 ## 🎯 Current Focus:
-- Integrating machine learning models into day-to-day analytics for deeper predictive insights 📈.
-- Mastering advanced NLP techniques to improve text data analysis.
-- Exploring cloud-based data solutions with AWS and Google BigQuery ☁️.
-
+- Turning stakeholder challenges into data-powered opportunities, not just reports.
+- Reimagining business processes through an analytical lens, blending strategy with evidence-based insights.
+- Championing a data culture where dashboards and predictive models shape decisions, not hindsight.
+- Pushing boundaries with cloud innovation (AWS ☁️, BigQuery 🌐) to make analytics faster, smarter, and scalable.
+- Exploring the edge of AI and NLP to give businesses foresight, not just hindsight.
+  
 ---
 
 ## 🌱 Always Learning:
-Constantly evolving with the latest advancements in data science, machine learning, and NLP to stay ahead of the curve 📚.
+Relentlessly curious, I chase the unknown edges of business and data to turn tomorrow’s possibilities into today’s solutions.
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viraj0297&show_icons=true&hide=contribs,prs&theme=tokyonight)
