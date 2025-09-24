@@ -1,11 +1,11 @@
 # 👋 Hey there, I’m Viraj!
 
-🔍 **Data Alchemist** | 📊 **Insight Architect** | 🚀 **AI Explorer**
+🔍 **Data Alchemist** | 📊 **Architect of Insights** | 🚀 **AI & Business Explorer**
 
 ---
 
 ## 💻 Languages I Speak:
-- Python 🐍, SQL 🛢️, R 📊, and Excel 📈
+Python 🐍, SQL 🛢️, DAX 📐, VBA ⚡, SAS 🔬
 
 ## 🛠️ Tools of My Trade:
 - **Data Wrangling**: Pandas 🐼, NumPy 🔢, SciPy 📐
